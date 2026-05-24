@@ -6,7 +6,7 @@ package com.mycompany.quickchat;
 
 /**
  *
- * @author Moyo Moyo
+ * @author Lionel Mthunzi
  */
 import java.util.Scanner;
 import java.io.FileWriter;
